@@ -16,6 +16,6 @@
 
 # Getting Started
 
-1. git clone https://github.com/Anfask/HackTheWorld.git
+1. git clone https://github.com/d4rcksniper/HackTheWorld.git
 2. cd HackTheWorld
 3. chmod +x install.sh && ./install.sh
